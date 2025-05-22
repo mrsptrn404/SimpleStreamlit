@@ -7,5 +7,3 @@ from.sklearn.matrics import classification_report, accuracy_score
 st.set_page_config(page_title="Predictions")
 st.tittle("Predictions")
 st.header("Predictions")
-
-#Load Dataset
